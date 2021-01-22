@@ -1,2 +1,7 @@
 
-1.- Descargar la imagen que deceas implementar, en este caso ocupé  
+1.- Descargar la imagen que deseas implementar, en este caso ocupé:
+
+  link: https://www.osboxes.org/ubuntu/ 
+  
+  Distribución 
+  
